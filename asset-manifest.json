@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Manja2012/goit-react-hw-01-components/static/css/main.39749a91.css",
-    "main.js": "/Manja2012/goit-react-hw-01-components/static/js/main.c9886806.js",
-    "index.html": "/Manja2012/goit-react-hw-01-components/index.html",
-    "main.39749a91.css.map": "/Manja2012/goit-react-hw-01-components/static/css/main.39749a91.css.map",
-    "main.c9886806.js.map": "/Manja2012/goit-react-hw-01-components/static/js/main.c9886806.js.map"
+    "main.css": "/github.com/goit-react-hw-01-components/static/css/main.b5f1bd23.css",
+    "main.js": "/github.com/goit-react-hw-01-components/static/js/main.c9886806.js",
+    "index.html": "/github.com/goit-react-hw-01-components/index.html",
+    "main.b5f1bd23.css.map": "/github.com/goit-react-hw-01-components/static/css/main.b5f1bd23.css.map",
+    "main.c9886806.js.map": "/github.com/goit-react-hw-01-components/static/js/main.c9886806.js.map"
   },
   "entrypoints": [
-    "static/css/main.39749a91.css",
+    "static/css/main.b5f1bd23.css",
     "static/js/main.c9886806.js"
   ]
 }
